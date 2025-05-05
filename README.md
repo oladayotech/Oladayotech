@@ -9,7 +9,7 @@
 ## 🔧 Technologies I Use
 - **Languages**: Python, JavaScript, HTML, CSS
 - **Frameworks**: Django, Django Rest Framework
-- **Tools**: Git, Docker, VS Code, Jupyter
+- **Tools**: Git, VS Code, Jupyter
 - **Databases**: PostgreSql, Mysql, Sqlite3
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oladayotech)](https://git.io/streak-stats)
