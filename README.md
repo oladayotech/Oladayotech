@@ -6,3 +6,4 @@
 🌱 I’m currently learning full stack development <br>
 🔭 I build responsive web app
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oladayotech)](https://git.io/streak-stats)
