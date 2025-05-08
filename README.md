@@ -3,7 +3,7 @@
 ## Hi, I'm Oladayo
 
 💻 Computer science student at Lagos State University <br>
-🌱 I’m a full stack develoPER <br>
+🌱 I’m a full stack developer <br>
 🔭 I build responsive web app
 
 ## 🔧 Technologies I Use
