@@ -8,7 +8,7 @@
 
 ## 🔧 Technologies I Use
 - **Languages**: Python, JavaScript, HTML, CSS
-- **Library**: matplot, bootstrap, numpy, pandas
+- **Library**: matplot, bootstrap, numpy, pandas, 
 - **Frameworks**: Django, Django Rest Framework
 - **Tools**: Git, VS Code, Jupyter
 - **Databases**: Mysql, Sqlite3
